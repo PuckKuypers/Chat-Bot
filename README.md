@@ -1,2 +1,1 @@
-Trained on Salesforce User questions, gpt.py file from https://github.com/karpathy/ng-video-lecture.git
-Training data in data.txt
+Trained on Salesforce User questions in data.txt, model from https://github.com/karpathy/ng-video-lecture.git
